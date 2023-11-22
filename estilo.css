@@ -1,9 +1,11 @@
 body{
     background-color: lightblue;
     color:rgb(243, 244, 245)
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 p{
     color:azure;
     font-size: 20px;
 }
+
