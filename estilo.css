@@ -30,4 +30,8 @@ h1{
 }
 #conteudo{
     display: flex;
+    margin-left: 150px;
+}
+#banner2{
+    margin-left: 200px;
 }
