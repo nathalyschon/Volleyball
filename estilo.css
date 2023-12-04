@@ -28,3 +28,6 @@ h1{
 #fundamentos{
     font-family: 'Bebas Neue', sans-serif;
 }
+#conteudo{
+    display: flex;
+}
